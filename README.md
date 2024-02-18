@@ -1,0 +1,1 @@
+Python basics including Variables, Strings, Functions, Dictonaries, and Loops are included. In addition, several other techniques, such as List, Tuples, Sets, text file dealings, RegEx, NLP (SpaCy or NLTK), and Pandas are included.
